@@ -58,6 +58,8 @@ This project demonstrates an end-to-end data pipeline for processing E-Commerce 
 
 </div>
 
+https://github.com/user-attachments/assets/db743b45-d7ca-4322-a6e4-ba0980d01d10
+
 ## Project Execution Flow
 
 1. **Data Ingestion**:
