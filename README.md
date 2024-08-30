@@ -17,7 +17,7 @@ This project demonstrates an end-to-end data pipeline for processing E-Commerce 
 
 ### Data Ingestion
 
-- **Data Source**: E-Commerce data from [data.world]([https://data.world/](https://data.world/jfreex/e-commerce-users-of-a-french-c2c-fashion-store))
+- **Data Source**: E-Commerce data from [data.world](https://data.world/jfreex/e-commerce-users-of-a-french-c2c-fashion-store)
 - **Ingestion Tool**: Azure Data Factory
 - **Landing Zone-1**: Azure Data Lake Storage (ADLS) Gen2, where raw data is initially stored.
 
