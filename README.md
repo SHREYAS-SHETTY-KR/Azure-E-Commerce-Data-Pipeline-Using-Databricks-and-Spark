@@ -2,7 +2,8 @@
 
 This project demonstrates an end-to-end data pipeline for processing E-Commerce data using Microsoft Azure services. The pipeline includes data ingestion, processing, storage, and visualization. The architecture leverages Azure Data Factory for ingestion, Databricks for processing, Delta Lake for data storage, and Power BI, Tableau, or Looker Studio for data visualization. This design provides scalability, flexibility, and efficient data management for analytics and reporting.
 
-![IMG](https://github.com/user-attachments/assets/a3cd7d2d-b614-4b3c-ac7a-70f3975969a8)
+![Screenshot 2024-08-31 192202](https://github.com/user-attachments/assets/8f44258d-247c-439f-a096-8912e62b6eda)
+
 
 ## Technologies Used
 
